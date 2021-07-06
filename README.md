@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orachamp1981
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Big Data
+- 👀 I’m interested to join as Senior Oracle Developer, PL/SQL Developer, Data Analysis
+- 🌱 I’m currently learning Big Data and utilize my Oracle Skills on Github
 - 💞️ I’m looking to collaborate on Oracle Development and Data Analysis
 - 📫 How to reach me email gotsomeone@hotmail.com, whatsapp 923456413727
 
